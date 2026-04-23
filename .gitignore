@@ -1,0 +1,31 @@
+# Python rules
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Data folders
+data/raw/
+data/processed/
+data/embeddings/
+data/index/
+dataset/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models and indices
+*.index
+*.faiss
+*.safetensors
+*.bin
+
+# macOS
+.DS_Store

@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-core
+pymupdf
+sentence-transformers
+faiss-cpu
+requests
+peft
+transformers
+datasets
+torch
+rouge-score
+jupyter
